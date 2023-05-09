@@ -3,6 +3,10 @@
     "first_canister": {
       "main": "main.mo",
       "type": "motoko"
+    },
+    "calculator": {
+      "main": "calculator.mo",
+      "type": "motoko"
     }
   }
 }
