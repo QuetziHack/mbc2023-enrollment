@@ -11,7 +11,14 @@
     "homework": {
       "main": "homework.mo",
       "type": "motoko"
+    },
+    "wallMessage": {
+      "main" : "day_3/main.mo",
+      "type": "motoko"
+    },
+    "motoCoin": {
+      "main": "day_4/main.mo",
+      "type": "motoko"
     }
-
   }
 }
